@@ -1,0 +1,18 @@
+.button {
+	font-size: 0;
+	margin: 10px;
+}
+
+.button.circle {
+	border: 20px solid red;
+	border-radius: 20px;
+}
+
+.button.square {
+	border: 20px solid green;
+}
+
+.button.triangle {
+	border: 30px solid transparent;
+	border-left-color: yellow;
+}
