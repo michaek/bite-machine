@@ -1,18 +1,19 @@
+body {
+	font-family: "Helvetica Neue";
+}
+
 .button {
-	font-size: 0;
+	font-size: 45px;
 	margin: 10px;
 }
 
-.button.circle {
-	border: 20px solid red;
-	border-radius: 20px;
+.setting {
+	display: flex;
 }
 
-.button.square {
-	border: 20px solid green;
+.implement {
+	position: relative;
 }
 
-.button.triangle {
-	border: 30px solid transparent;
-	border-left-color: yellow;
+.count {
 }
